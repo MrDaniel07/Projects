@@ -1,0 +1,1 @@
+Welcome to My Project Repository! This repository is designed to store and manage various projects. In here, you can find completed projects, ongoing projects, and projects that have been stopped for various reasons.
